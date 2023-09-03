@@ -67,4 +67,4 @@ Here is a brief overview of what every program does:
 
 Here's a visual representation of which files each program opens and which it outputs.
 
-![Project flowchart](Project/ flowchart.png)
+![Project Flowchart](ProjectFlowchart.png)
