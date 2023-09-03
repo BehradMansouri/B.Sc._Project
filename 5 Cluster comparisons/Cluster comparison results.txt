@@ -1,0 +1,155 @@
+100.0 percent of Cluster_12_4_1 is also present in Cluster_12_3_1
+73.28100455593128 percent of Cluster_12_3_1 is also present in Cluster_12_4_1
+=======================================================
+0.0 percent of Cluster_12_4_1 is also present in Cluster_12_3_2
+0.0 percent of Cluster_12_3_2 is also present in Cluster_12_4_1
+=======================================================
+0.0 percent of Cluster_12_4_1 is also present in Cluster_12_3_3
+0.0 percent of Cluster_12_3_3 is also present in Cluster_12_4_1
+=======================================================
+40.373267868498495 percent of Cluster_12_4_2 is also present in Cluster_12_3_1
+26.718995444068728 percent of Cluster_12_3_1 is also present in Cluster_12_4_2
+=======================================================
+59.626732131501505 percent of Cluster_12_4_2 is also present in Cluster_12_3_2
+68.95142326997238 percent of Cluster_12_3_2 is also present in Cluster_12_4_2
+=======================================================
+0.0 percent of Cluster_12_4_2 is also present in Cluster_12_3_3
+0.0 percent of Cluster_12_3_3 is also present in Cluster_12_4_2
+=======================================================
+0.0 percent of Cluster_12_4_3 is also present in Cluster_12_3_1
+0.0 percent of Cluster_12_3_1 is also present in Cluster_12_4_3
+=======================================================
+74.64641065701834 percent of Cluster_12_4_3 is also present in Cluster_12_3_2
+31.048576730027623 percent of Cluster_12_3_2 is also present in Cluster_12_4_3
+=======================================================
+25.353589342981664 percent of Cluster_12_4_3 is also present in Cluster_12_3_3
+68.71900596199923 percent of Cluster_12_3_3 is also present in Cluster_12_4_3
+=======================================================
+0.0 percent of Cluster_12_4_4 is also present in Cluster_12_3_1
+0.0 percent of Cluster_12_3_1 is also present in Cluster_12_4_4
+=======================================================
+0.0 percent of Cluster_12_4_4 is also present in Cluster_12_3_2
+0.0 percent of Cluster_12_3_2 is also present in Cluster_12_4_4
+=======================================================
+100.0 percent of Cluster_12_4_4 is also present in Cluster_12_3_3
+31.28099403800078 percent of Cluster_12_3_3 is also present in Cluster_12_4_4
+=======================================================
+
+
+
+
+100.0 percent of Cluster_28_4_1 is also present in Cluster_28_3_1
+74.27050763063231 percent of Cluster_28_3_1 is also present in Cluster_28_4_1
+=======================================================
+0.0 percent of Cluster_28_4_1 is also present in Cluster_28_3_2
+0.0 percent of Cluster_28_3_2 is also present in Cluster_28_4_1
+=======================================================
+0.0 percent of Cluster_28_4_1 is also present in Cluster_28_3_3
+0.0 percent of Cluster_28_3_3 is also present in Cluster_28_4_1
+=======================================================
+40.09071957114384 percent of Cluster_28_4_2 is also present in Cluster_28_3_1
+25.72949236936769 percent of Cluster_28_3_1 is also present in Cluster_28_4_2
+=======================================================
+59.90928042885616 percent of Cluster_28_4_2 is also present in Cluster_28_3_2
+68.99939314517903 percent of Cluster_28_3_2 is also present in Cluster_28_4_2
+=======================================================
+0.0 percent of Cluster_28_4_2 is also present in Cluster_28_3_3
+0.0 percent of Cluster_28_3_3 is also present in Cluster_28_4_2
+=======================================================
+0.0 percent of Cluster_28_4_3 is also present in Cluster_28_3_1
+0.0 percent of Cluster_28_3_1 is also present in Cluster_28_4_3
+=======================================================
+75.28085088206399 percent of Cluster_28_4_3 is also present in Cluster_28_3_2
+31.00060685482098 percent of Cluster_28_3_2 is also present in Cluster_28_4_3
+=======================================================
+24.719149117936013 percent of Cluster_28_4_3 is also present in Cluster_28_3_3
+67.96641024135297 percent of Cluster_28_3_3 is also present in Cluster_28_4_3
+=======================================================
+0.0 percent of Cluster_28_4_4 is also present in Cluster_28_3_1
+0.0 percent of Cluster_28_3_1 is also present in Cluster_28_4_4
+=======================================================
+0.0 percent of Cluster_28_4_4 is also present in Cluster_28_3_2
+0.0 percent of Cluster_28_3_2 is also present in Cluster_28_4_4
+=======================================================
+100.0 percent of Cluster_28_4_4 is also present in Cluster_28_3_3
+32.03358975864701 percent of Cluster_28_3_3 is also present in Cluster_28_4_4
+=======================================================
+
+
+
+
+98.22589024043597 percent of Cluster_28_3_1 is also present in Cluster_12_3_1
+98.08024507093258 percent of Cluster_12_3_1 is also present in Cluster_28_3_1
+=======================================================
+1.7741097595640198 percent of Cluster_28_3_1 is also present in Cluster_12_3_2
+3.0953663562749574 percent of Cluster_12_3_2 is also present in Cluster_28_3_1
+=======================================================
+0.0 percent of Cluster_28_3_1 is also present in Cluster_12_3_3
+0.0 percent of Cluster_12_3_3 is also present in Cluster_28_3_1
+=======================================================
+0.24274192839113112 percent of Cluster_28_3_2 is also present in Cluster_12_3_1
+0.13506305389309464 percent of Cluster_12_3_1 is also present in Cluster_28_3_2
+=======================================================
+99.02991178617603 percent of Cluster_28_3_2 is also present in Cluster_12_3_2
+96.27957485741648 percent of Cluster_12_3_2 is also present in Cluster_28_3_2
+=======================================================
+0.7273462854328459 percent of Cluster_28_3_2 is also present in Cluster_12_3_3
+4.608012481194629 percent of Cluster_12_3_3 is also present in Cluster_28_3_2
+=======================================================
+0.0 percent of Cluster_28_3_3 is also present in Cluster_12_3_1
+0.0 percent of Cluster_12_3_1 is also present in Cluster_28_3_3
+=======================================================
+0.4228081508015738 percent of Cluster_28_3_3 is also present in Cluster_12_3_2
+0.06156529769386655 percent of Cluster_12_3_2 is also present in Cluster_28_3_3
+=======================================================
+99.57719184919841 percent of Cluster_28_3_3 is also present in Cluster_12_3_3
+94.48375773109711 percent of Cluster_12_3_3 is also present in Cluster_28_3_3
+=======================================================
+96.44662346746202 percent of Cluster_28_4_1 is also present in Cluster_12_4_1
+97.60399067773407 percent of Cluster_12_4_1 is also present in Cluster_28_4_1
+=======================================================
+3.553376532537975 percent of Cluster_28_4_1 is also present in Cluster_12_4_2
+3.9818690013161984 percent of Cluster_12_4_2 is also present in Cluster_28_4_1
+=======================================================
+0.0 percent of Cluster_28_4_1 is also present in Cluster_12_4_3
+0.0 percent of Cluster_12_4_3 is also present in Cluster_28_4_1
+=======================================================
+0.0 percent of Cluster_28_4_1 is also present in Cluster_12_4_4
+0.0 percent of Cluster_12_4_4 is also present in Cluster_28_4_1
+=======================================================
+0.20465357800126763 percent of Cluster_28_4_2 is also present in Cluster_12_4_1
+0.17896613666869227 percent of Cluster_12_4_1 is also present in Cluster_28_4_2
+=======================================================
+98.43837101860973 percent of Cluster_28_4_2 is also present in Cluster_12_4_2
+95.31936290095979 percent of Cluster_12_4_2 is also present in Cluster_28_4_2
+=======================================================
+1.356975403389002 percent of Cluster_28_4_2 is also present in Cluster_12_4_3
+3.653071293479155 percent of Cluster_12_4_3 is also present in Cluster_28_4_2
+=======================================================
+0.0 percent of Cluster_28_4_2 is also present in Cluster_12_4_4
+0.0 percent of Cluster_12_4_4 is also present in Cluster_28_4_2
+=======================================================
+0.0 percent of Cluster_28_4_3 is also present in Cluster_12_4_1
+0.0 percent of Cluster_12_4_1 is also present in Cluster_28_4_3
+=======================================================
+0.35880568963307846 percent of Cluster_28_4_3 is also present in Cluster_12_4_2
+0.12422543959538 percent of Cluster_12_4_2 is also present in Cluster_28_4_3
+=======================================================
+99.34859681346376 percent of Cluster_28_4_3 is also present in Cluster_12_4_3
+95.62741550859303 percent of Cluster_12_4_3 is also present in Cluster_28_4_3
+=======================================================
+0.29259749690316517 percent of Cluster_28_4_3 is also present in Cluster_12_4_4
+2.4403277520484505 percent of Cluster_12_4_4 is also present in Cluster_28_4_3
+=======================================================
+0.0 percent of Cluster_28_4_4 is also present in Cluster_12_4_1
+0.0 percent of Cluster_12_4_1 is also present in Cluster_28_4_4
+=======================================================
+0.0 percent of Cluster_28_4_4 is also present in Cluster_12_4_2
+0.0 percent of Cluster_12_4_2 is also present in Cluster_28_4_4
+=======================================================
+0.9532538955087075 percent of Cluster_28_4_4 is also present in Cluster_12_4_3
+0.10689910369213058 percent of Cluster_12_4_3 is also present in Cluster_28_4_4
+=======================================================
+99.04674610449129 percent of Cluster_28_4_4 is also present in Cluster_12_4_4
+96.24153900961882 percent of Cluster_12_4_4 is also present in Cluster_28_4_4
+=======================================================
